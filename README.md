@@ -1,6 +1,6 @@
 Oiee ... Eu su a Tatty Luiza 👋
 
 
-- 🔭 Hoje trabalho com desenvolvimento Front-end - HTML | CSS | JavaScript ...
+- 🔭 Hoje trabalho com desenvolvimento Front-end - HTML | CSS | JavaScript | Angular | Tailwind ...
 
 
